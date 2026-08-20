@@ -2,6 +2,7 @@ packages:
   - .
 allowBuilds:
   sharp: false
+  unrs-resolver: false
 minimumReleaseAge: 2880
 onlyBuiltDependencies:
   - sharp
